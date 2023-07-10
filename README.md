@@ -6,7 +6,7 @@ This project is a simulation of a Distributed Denial of Service (DDoS) attack im
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Contact](#contact)
+- [Author](#Author)
 
 ## Introduction
 The purpose of this project is to assess the risks associated with a DDoS attack and evaluate the effectiveness of different protection mechanisms. It consists of a client-side Python script that simulates the attack and a server-side application implemented in Node.js that incorporates several protection mechanisms.
